@@ -1,2 +1,3 @@
-# simonelawson.com
-personal portfolio site source code for Creative Coder: Simone Lawson
+## Personal Portfolio
+
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
